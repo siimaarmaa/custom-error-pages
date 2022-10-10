@@ -17,4 +17,4 @@ jobs:
         exclude: |
           README.md
           **/.git*
-          **/.git*/**
+          **/.github*
